@@ -1,0 +1,1 @@
+voici mon fichier cagnotte.txt permettant la Réalisation de la partie cagnotte côté front end
